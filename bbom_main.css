@@ -1,0 +1,56 @@
+body {
+  font-family: 'NanumGothic', 'Copperlate Gothic', "맑은 고딕", 'malgungothic',  sans-serif;
+}
+
+.none {
+  text-decoration: none !important;
+}
+
+.jumbotron {
+  background-color: #0EC9EF;
+  font-weight: normal;
+  color: white;
+  position: relative;
+  top: -20px;
+}
+.jumbotron img {
+  padding-top: 15px
+}
+.container {
+  font-family: georgia, garamond, sans-serif;
+
+}
+
+.image_container h2 {
+  font-family: 'Nanum Pen Script', 'Nanum Brush Script', 'Nanum Gothic', sans-serif;
+}
+
+.row1 .thumbnail {
+  background-color: #0EC9EF;
+  border-radius: 2px;
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.row1 .thumbnail img {
+  border-radius: 50em;
+}
+.row1 {
+  clear: both;
+}
+
+.row .section-heading {
+  font-family: 'Nanum Pen Script', 'Nanum Brush Script', 'Nanum Gothic', sans-serif;
+  color: #FFB83A;
+  font-weight: bolder;
+}
+.row .lead {
+  font-family: "맑은 고딕", 'malgun-gothic',  sans-serif;
+  font-size: 14px;
+  color: gray;
+}
+.row .conclusion {
+  font-family: "맑은 고딕", 'malgun-gothic',  sans-serif;
+  font-size: 14px;
+  color: blue;
+}
